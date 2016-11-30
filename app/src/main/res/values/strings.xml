@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">MisMaps</string>
+    <string name="app_name">Mis Mapas pro</string>
     <string name="title_activity_maps">Map</string>
     <string name="title_activity_maps2">Map</string>
     <string name="permission_rationale_location">Access to the location service is required to demonstrate the \'my location\' feature, which shows your current location on the map.</string>

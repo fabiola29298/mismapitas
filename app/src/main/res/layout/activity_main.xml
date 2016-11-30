@@ -54,13 +54,13 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="propaganda"
+        android:text="propaganda LOL"
         android:onClick="ir_mpp"
         android:id="@+id/tvTexto4"
         android:layout_below="@+id/tvTexto3"
         android:layout_alignLeft="@+id/tvTexto3"
         android:layout_alignStart="@+id/tvTexto3"
-        android:layout_marginTop="15dp" />
+        android:layout_marginTop="19dp" />
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
